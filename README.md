@@ -1,9 +1,9 @@
 ## Hi, I'm Felipe! :wave:
 
 
-Driven by the idea of creating solutions through software, I decided to specialize in web development in hopes of creating solutions to problems. Today I am a student at Kenzie Academy Brasil, which has driven my growth not only in the technical area, but also in softskills.
+Driven by the idea of creating solutions through software, I decided to specialize in web development in hopes of creating solutions to problems. Today I am a instructor at Kenzie Academy Brasil, which has driven my growth not only in the technical area, but also in softskills.
 
-- :seedling: I'm currently learning Django, Node, Docker and AWS services.
+- :seedling: I'm currently learning Nest and AWS services.
 
 <div align="center">
   <a href="https://github.com/flp-ads">
